@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Test suite for the User class in models.user"""
 import unittest
